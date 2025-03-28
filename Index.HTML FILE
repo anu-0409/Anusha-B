@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="pasport IMG_1013.jpeg" alt="Your Profile Picture" class="profile-picture">
+            <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>Anusha B</h1>
             <p>Am Computer Application student</p>
         </div>
@@ -151,7 +151,7 @@
             <h2>Projects</h2>
             <ul>
                 
-                <li><a href="#">college portal</a></li>
+                <li><a href="#">Cloud Security IBM</a></li>
                  <!-- Add more project links here -->
             </ul>
         </div>
@@ -162,7 +162,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="Anusha B-2.docx" target="_blank" class="download-button">Download CV</a>
+            <a href="resume.pdf" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
